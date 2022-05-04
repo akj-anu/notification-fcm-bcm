@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651858596946",
+    "project_id": "fireremoteconfig-ba252",
+    "storage_bucket": "fireremoteconfig-ba252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651858596946:android:3245c9806c401bc0b73b8b",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651858596946-b2amucoevsgsre01n35r49cm5diholbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXGPxjRUY06-q23Ed71Ho27nCFVzmH4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651858596946-b2amucoevsgsre01n35r49cm5diholbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
